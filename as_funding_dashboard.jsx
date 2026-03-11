@@ -28,7 +28,7 @@ function useDashboardData() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch("/dashboard_data.json")
+    fetch(`${import.meta.env.BASE_URL}dashboard_data.json`)
       .then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); })
       .then(setData)
       .catch(setError);
