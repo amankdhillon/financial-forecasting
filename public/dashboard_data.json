@@ -1,0 +1,1314 @@
+{
+  "QO": [
+    "Spring_23",
+    "Fall_23",
+    "Winter_24",
+    "Spring_24",
+    "Fall_24",
+    "Winter_25",
+    "Spring_25",
+    "Fall_25"
+  ],
+  "QL": {
+    "Spring_23": "SP '23",
+    "Fall_23": "FA '23",
+    "Winter_24": "WI '24",
+    "Spring_24": "SP '24",
+    "Fall_24": "FA '24",
+    "Winter_25": "WI '25",
+    "Spring_25": "SP '25",
+    "Fall_25": "FA '25"
+  },
+  "QF": {
+    "Spring_23": "Spring 2023",
+    "Fall_23": "Fall 2023",
+    "Winter_24": "Winter 2024",
+    "Spring_24": "Spring 2024",
+    "Fall_24": "Fall 2024",
+    "Winter_25": "Winter 2025",
+    "Spring_25": "Spring 2025",
+    "Fall_25": "Fall 2025"
+  },
+  "QS": [
+    {
+      "q": "Spring_23",
+      "t": 291935,
+      "n": 294,
+      "a": 993,
+      "md": 498,
+      "mx": 6000,
+      "top": [
+        {
+          "o": "Muslim Student Association",
+          "t": 37497,
+          "e": 26
+        },
+        {
+          "o": "Deejays and Vinylphiles Club",
+          "t": 19472,
+          "e": 4
+        },
+        {
+          "o": "Association for Computing Machinery (ACM)",
+          "t": 18873,
+          "e": 26
+        },
+        {
+          "o": "Kaibigang Pilipin@",
+          "t": 13596,
+          "e": 3
+        },
+        {
+          "o": "Tritons For Israel",
+          "t": 13024,
+          "e": 6
+        },
+        {
+          "o": "Beautiful Mind Project @ UC San Diego",
+          "t": 10247,
+          "e": 4
+        },
+        {
+          "o": "Biomedical Engineering Society (BMES)",
+          "t": 9701,
+          "e": 10
+        },
+        {
+          "o": "Triton Gaming",
+          "t": 9420,
+          "e": 2
+        },
+        {
+          "o": "American Chemical Society Student Affiliates (ACSSA)",
+          "t": 8072,
+          "e": 9
+        },
+        {
+          "o": "Indian Student Association",
+          "t": 7672,
+          "e": 3
+        }
+      ],
+      "mo": [
+        {
+          "m": "Feb",
+          "t": 489,
+          "e": 1
+        },
+        {
+          "m": "Mar",
+          "t": 2239,
+          "e": 5
+        },
+        {
+          "m": "Apr",
+          "t": 128237,
+          "e": 99
+        },
+        {
+          "m": "May",
+          "t": 132827,
+          "e": 141
+        },
+        {
+          "m": "Jun",
+          "t": 28144,
+          "e": 48
+        }
+      ],
+      "dist": [
+        {
+          "r": "<$100",
+          "c": 21
+        },
+        {
+          "r": "$100–250",
+          "c": 54
+        },
+        {
+          "r": "$250–500",
+          "c": 84
+        },
+        {
+          "r": "$500–1K",
+          "c": 74
+        },
+        {
+          "r": "$1K–2.5K",
+          "c": 24
+        },
+        {
+          "r": "$2.5K–5K",
+          "c": 29
+        },
+        {
+          "r": "$5K+",
+          "c": 8
+        }
+      ]
+    },
+    {
+      "q": "Fall_23",
+      "t": 188626,
+      "n": 273,
+      "a": 691,
+      "md": 388,
+      "mx": 6137,
+      "top": [
+        {
+          "o": "Association for Computing Machinery (ACM)",
+          "t": 24587,
+          "e": 30
+        },
+        {
+          "o": "Deejays and Vinylphiles Club",
+          "t": 17848,
+          "e": 3
+        },
+        {
+          "o": "Muslim Student Association",
+          "t": 13528,
+          "e": 9
+        },
+        {
+          "o": "Eta Kappa Nu (HKN)",
+          "t": 8255,
+          "e": 17
+        },
+        {
+          "o": "Data Science Student Society",
+          "t": 7915,
+          "e": 4
+        },
+        {
+          "o": "Triton Engineering Student Council",
+          "t": 6540,
+          "e": 3
+        },
+        {
+          "o": "Undergraduate Women in Computing at UC San Diego",
+          "t": 5712,
+          "e": 14
+        },
+        {
+          "o": "Interfraternity Council",
+          "t": 5275,
+          "e": 1
+        },
+        {
+          "o": "SangamSD",
+          "t": 5089,
+          "e": 2
+        },
+        {
+          "o": "Student Involvement Leadership Consultant (SILC)",
+          "t": 4433,
+          "e": 1
+        }
+      ],
+      "mo": [
+        {
+          "m": "Jan",
+          "t": 3000,
+          "e": 1
+        },
+        {
+          "m": "Feb",
+          "t": 7417,
+          "e": 6
+        },
+        {
+          "m": "Apr",
+          "t": 1057,
+          "e": 1
+        },
+        {
+          "m": "Jun",
+          "t": 558,
+          "e": 1
+        },
+        {
+          "m": "Sep",
+          "t": 16545,
+          "e": 11
+        },
+        {
+          "m": "Oct",
+          "t": 104756,
+          "e": 144
+        },
+        {
+          "m": "Nov",
+          "t": 44080,
+          "e": 83
+        },
+        {
+          "m": "Dec",
+          "t": 11214,
+          "e": 26
+        }
+      ],
+      "dist": [
+        {
+          "r": "<$100",
+          "c": 30
+        },
+        {
+          "r": "$100–250",
+          "c": 62
+        },
+        {
+          "r": "$250–500",
+          "c": 86
+        },
+        {
+          "r": "$500–1K",
+          "c": 63
+        },
+        {
+          "r": "$1K–2.5K",
+          "c": 16
+        },
+        {
+          "r": "$2.5K–5K",
+          "c": 11
+        },
+        {
+          "r": "$5K+",
+          "c": 5
+        }
+      ]
+    },
+    {
+      "q": "Winter_24",
+      "t": 180433,
+      "n": 342,
+      "a": 528,
+      "md": 349,
+      "mx": 13030,
+      "top": [
+        {
+          "o": "Muslim Student Association",
+          "t": 14921,
+          "e": 12
+        },
+        {
+          "o": "Deejays and Vinylphiles Club",
+          "t": 13478,
+          "e": 2
+        },
+        {
+          "o": "Association for Computing Machinery (ACM)",
+          "t": 13432,
+          "e": 36
+        },
+        {
+          "o": "Undergraduate Women in Computing at UC San Diego",
+          "t": 12465,
+          "e": 28
+        },
+        {
+          "o": "Student Entrepreneurs Network",
+          "t": 6808,
+          "e": 13
+        },
+        {
+          "o": "Swara @ UC San Diego",
+          "t": 6500,
+          "e": 2
+        },
+        {
+          "o": "Anime & Manga Enthusiasts at UC San Diego",
+          "t": 6087,
+          "e": 4
+        },
+        {
+          "o": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "t": 4509,
+          "e": 15
+        },
+        {
+          "o": "Data Science Student Society",
+          "t": 4205,
+          "e": 3
+        },
+        {
+          "o": "Pakistani Student Association",
+          "t": 4000,
+          "e": 2
+        }
+      ],
+      "mo": [
+        {
+          "m": "Jan",
+          "t": 45267,
+          "e": 98
+        },
+        {
+          "m": "Feb",
+          "t": 101513,
+          "e": 169
+        },
+        {
+          "m": "Mar",
+          "t": 32702,
+          "e": 73
+        },
+        {
+          "m": "Apr",
+          "t": 950,
+          "e": 2
+        }
+      ],
+      "dist": [
+        {
+          "r": "<$100",
+          "c": 42
+        },
+        {
+          "r": "$100–250",
+          "c": 62
+        },
+        {
+          "r": "$250–500",
+          "c": 124
+        },
+        {
+          "r": "$500–1K",
+          "c": 86
+        },
+        {
+          "r": "$1K–2.5K",
+          "c": 23
+        },
+        {
+          "r": "$2.5K–5K",
+          "c": 3
+        },
+        {
+          "r": "$5K+",
+          "c": 2
+        }
+      ]
+    },
+    {
+      "q": "Spring_24",
+      "t": 249477,
+      "n": 342,
+      "a": 729,
+      "md": 350,
+      "mx": 16436,
+      "top": [
+        {
+          "o": "Tritons For Israel",
+          "t": 30049,
+          "e": 8
+        },
+        {
+          "o": "Association for Computing Machinery (ACM)",
+          "t": 24026,
+          "e": 42
+        },
+        {
+          "o": "Muslim Student Association",
+          "t": 20010,
+          "e": 13
+        },
+        {
+          "o": "Triton Gaming",
+          "t": 18957,
+          "e": 2
+        },
+        {
+          "o": "Keyboard Club at UC San Diego",
+          "t": 10371,
+          "e": 1
+        },
+        {
+          "o": "Deejays and Vinylphiles Club",
+          "t": 7283,
+          "e": 4
+        },
+        {
+          "o": "SangamSD",
+          "t": 5850,
+          "e": 2
+        },
+        {
+          "o": "Eta Kappa Nu (HKN)",
+          "t": 5529,
+          "e": 13
+        },
+        {
+          "o": "Undergraduate Women in Computing at UC San Diego",
+          "t": 4528,
+          "e": 16
+        },
+        {
+          "o": "Kaibigang Pilipino (KP) at UC San Diego",
+          "t": 4500,
+          "e": 1
+        }
+      ],
+      "mo": [
+        {
+          "m": "Feb",
+          "t": 259,
+          "e": 1
+        },
+        {
+          "m": "Mar",
+          "t": 1975,
+          "e": 5
+        },
+        {
+          "m": "Apr",
+          "t": 103055,
+          "e": 168
+        },
+        {
+          "m": "May",
+          "t": 118419,
+          "e": 154
+        },
+        {
+          "m": "Jun",
+          "t": 23569,
+          "e": 13
+        },
+        {
+          "m": "Nov",
+          "t": 2200,
+          "e": 1
+        }
+      ],
+      "dist": [
+        {
+          "r": "<$100",
+          "c": 34
+        },
+        {
+          "r": "$100–250",
+          "c": 45
+        },
+        {
+          "r": "$250–500",
+          "c": 138
+        },
+        {
+          "r": "$500–1K",
+          "c": 73
+        },
+        {
+          "r": "$1K–2.5K",
+          "c": 38
+        },
+        {
+          "r": "$2.5K–5K",
+          "c": 10
+        },
+        {
+          "r": "$5K+",
+          "c": 4
+        }
+      ]
+    },
+    {
+      "q": "Fall_24",
+      "t": 200181,
+      "n": 374,
+      "a": 535,
+      "md": 336,
+      "mx": 7932,
+      "top": [
+        {
+          "o": "Association for Computing Machinery (ACM)",
+          "t": 13104,
+          "e": 20
+        },
+        {
+          "o": "Muslim Student Association",
+          "t": 9679,
+          "e": 7
+        },
+        {
+          "o": "Chinese Union",
+          "t": 7932,
+          "e": 1
+        },
+        {
+          "o": "Triton Gaming",
+          "t": 7330,
+          "e": 3
+        },
+        {
+          "o": "Keyboard Club at UC San Diego",
+          "t": 7013,
+          "e": 2
+        },
+        {
+          "o": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "t": 6805,
+          "e": 13
+        },
+        {
+          "o": "Undergraduate Women in Computing at UC San Diego",
+          "t": 6255,
+          "e": 17
+        },
+        {
+          "o": "Chinese Global Community",
+          "t": 4500,
+          "e": 1
+        },
+        {
+          "o": "National Pan-Hellenic Council",
+          "t": 4499,
+          "e": 1
+        },
+        {
+          "o": "Society of Asian Scientists and Engineers at UC San Diego",
+          "t": 3814,
+          "e": 8
+        }
+      ],
+      "mo": [
+        {
+          "m": "Jan",
+          "t": 6194,
+          "e": 5
+        },
+        {
+          "m": "Feb",
+          "t": 4500,
+          "e": 4
+        },
+        {
+          "m": "Mar",
+          "t": 1400,
+          "e": 1
+        },
+        {
+          "m": "Sep",
+          "t": 34188,
+          "e": 21
+        },
+        {
+          "m": "Oct",
+          "t": 89792,
+          "e": 208
+        },
+        {
+          "m": "Nov",
+          "t": 52812,
+          "e": 103
+        },
+        {
+          "m": "Dec",
+          "t": 11294,
+          "e": 32
+        }
+      ],
+      "dist": [
+        {
+          "r": "<$100",
+          "c": 31
+        },
+        {
+          "r": "$100–250",
+          "c": 94
+        },
+        {
+          "r": "$250–500",
+          "c": 138
+        },
+        {
+          "r": "$500–1K",
+          "c": 77
+        },
+        {
+          "r": "$1K–2.5K",
+          "c": 21
+        },
+        {
+          "r": "$2.5K–5K",
+          "c": 11
+        },
+        {
+          "r": "$5K+",
+          "c": 2
+        }
+      ]
+    },
+    {
+      "q": "Winter_25",
+      "t": 163988,
+      "n": 362,
+      "a": 453,
+      "md": 293,
+      "mx": 10403,
+      "top": [
+        {
+          "o": "Anime & Manga Enthusiasts at UC San Diego",
+          "t": 10403,
+          "e": 1
+        },
+        {
+          "o": "Muslim Student Association",
+          "t": 10257,
+          "e": 8
+        },
+        {
+          "o": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "t": 5865,
+          "e": 17
+        },
+        {
+          "o": "Association for Computing Machinery (ACM)",
+          "t": 5534,
+          "e": 21
+        },
+        {
+          "o": "Student Involvement Leadership Consultants (SILCs)",
+          "t": 5281,
+          "e": 2
+        },
+        {
+          "o": "Chinese Students and Scholars Association",
+          "t": 5000,
+          "e": 1
+        },
+        {
+          "o": "Undergraduate Women in Computing at UC San Diego",
+          "t": 4935,
+          "e": 16
+        },
+        {
+          "o": "Biomedical Engineering Society (BMES)",
+          "t": 4084,
+          "e": 5
+        },
+        {
+          "o": "Triton Engineering Student Council",
+          "t": 4000,
+          "e": 1
+        },
+        {
+          "o": "Shifa Society",
+          "t": 3981,
+          "e": 4
+        }
+      ],
+      "mo": [
+        {
+          "m": "Jan",
+          "t": 55539,
+          "e": 132
+        },
+        {
+          "m": "Feb",
+          "t": 72315,
+          "e": 146
+        },
+        {
+          "m": "Mar",
+          "t": 36134,
+          "e": 84
+        }
+      ],
+      "dist": [
+        {
+          "r": "<$100",
+          "c": 27
+        },
+        {
+          "r": "$100–250",
+          "c": 127
+        },
+        {
+          "r": "$250–500",
+          "c": 126
+        },
+        {
+          "r": "$500–1K",
+          "c": 56
+        },
+        {
+          "r": "$1K–2.5K",
+          "c": 21
+        },
+        {
+          "r": "$2.5K–5K",
+          "c": 4
+        },
+        {
+          "r": "$5K+",
+          "c": 1
+        }
+      ]
+    },
+    {
+      "q": "Spring_25",
+      "t": 235718,
+      "n": 433,
+      "a": 544,
+      "md": 321,
+      "mx": 16250,
+      "top": [
+        {
+          "o": "Tritons For Israel",
+          "t": 27062,
+          "e": 7
+        },
+        {
+          "o": "Triton Gaming",
+          "t": 15983,
+          "e": 2
+        },
+        {
+          "o": "Muslim Student Association",
+          "t": 7728,
+          "e": 11
+        },
+        {
+          "o": "Association for Computing Machinery (ACM)",
+          "t": 7187,
+          "e": 17
+        },
+        {
+          "o": "Aequora Ballet Company",
+          "t": 5820,
+          "e": 5
+        },
+        {
+          "o": "Video Game Development Club (VGDC) at UC San Diego",
+          "t": 5616,
+          "e": 8
+        },
+        {
+          "o": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "t": 5185,
+          "e": 17
+        },
+        {
+          "o": "Vietnamese Student Association",
+          "t": 5000,
+          "e": 1
+        },
+        {
+          "o": "Data Science Student Society",
+          "t": 4521,
+          "e": 2
+        },
+        {
+          "o": "Multi-Identity Art Collective",
+          "t": 4066,
+          "e": 1
+        }
+      ],
+      "mo": [
+        {
+          "m": "Feb",
+          "t": 199,
+          "e": 1
+        },
+        {
+          "m": "Mar",
+          "t": 1519,
+          "e": 4
+        },
+        {
+          "m": "Apr",
+          "t": 74519,
+          "e": 165
+        },
+        {
+          "m": "May",
+          "t": 136439,
+          "e": 221
+        },
+        {
+          "m": "Jun",
+          "t": 23042,
+          "e": 42
+        }
+      ],
+      "dist": [
+        {
+          "r": "<$100",
+          "c": 26
+        },
+        {
+          "r": "$100–250",
+          "c": 121
+        },
+        {
+          "r": "$250–500",
+          "c": 180
+        },
+        {
+          "r": "$500–1K",
+          "c": 73
+        },
+        {
+          "r": "$1K–2.5K",
+          "c": 23
+        },
+        {
+          "r": "$2.5K–5K",
+          "c": 7
+        },
+        {
+          "r": "$5K+",
+          "c": 3
+        }
+      ]
+    },
+    {
+      "q": "Fall_25",
+      "t": 190188,
+      "n": 453,
+      "a": 420,
+      "md": 296,
+      "mx": 5000,
+      "top": [
+        {
+          "o": "Association for Computing Machinery (ACM)",
+          "t": 12566,
+          "e": 22
+        },
+        {
+          "o": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "t": 6336,
+          "e": 15
+        },
+        {
+          "o": "Muslim Student Association",
+          "t": 5692,
+          "e": 10
+        },
+        {
+          "o": "Video Game Development Club (VGDC) at UC San Diego",
+          "t": 5436,
+          "e": 9
+        },
+        {
+          "o": "Chinese Union",
+          "t": 5000,
+          "e": 1
+        },
+        {
+          "o": "Chinese Global Community",
+          "t": 5000,
+          "e": 1
+        },
+        {
+          "o": "Interfraternity Council",
+          "t": 4830,
+          "e": 1
+        },
+        {
+          "o": "Indian Student Association",
+          "t": 4461,
+          "e": 3
+        },
+        {
+          "o": "Redeemer’s Grace Church on Campus at UC San Diego",
+          "t": 4237,
+          "e": 7
+        },
+        {
+          "o": "Flying Sams at UC San Diego",
+          "t": 3832,
+          "e": 2
+        }
+      ],
+      "mo": [
+        {
+          "m": "Sep",
+          "t": 31552,
+          "e": 24
+        },
+        {
+          "m": "Oct",
+          "t": 97932,
+          "e": 243
+        },
+        {
+          "m": "Nov",
+          "t": 46664,
+          "e": 138
+        },
+        {
+          "m": "Dec",
+          "t": 14040,
+          "e": 48
+        }
+      ],
+      "dist": [
+        {
+          "r": "<$100",
+          "c": 53
+        },
+        {
+          "r": "$100–250",
+          "c": 135
+        },
+        {
+          "r": "$250–500",
+          "c": 171
+        },
+        {
+          "r": "$500–1K",
+          "c": 70
+        },
+        {
+          "r": "$1K–2.5K",
+          "c": 16
+        },
+        {
+          "r": "$2.5K–5K",
+          "c": 8
+        },
+        {
+          "r": "$5K+",
+          "c": 0
+        }
+      ]
+    }
+  ],
+  "TOP_ORGS": [
+    {
+      "o": "Muslim Student Association",
+      "t": 119311,
+      "e": 96,
+      "av": 14914,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 37497,
+        "Fall_23": 13528,
+        "Winter_24": 14921,
+        "Spring_24": 20010,
+        "Fall_24": 9679,
+        "Winter_25": 10257,
+        "Spring_25": 7728,
+        "Fall_25": 5692
+      }
+    },
+    {
+      "o": "Association for Computing Machinery (ACM)",
+      "t": 119309,
+      "e": 214,
+      "av": 14914,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 18873,
+        "Fall_23": 24587,
+        "Winter_24": 13432,
+        "Spring_24": 24026,
+        "Fall_24": 13104,
+        "Winter_25": 5534,
+        "Spring_25": 7187,
+        "Fall_25": 12566
+      }
+    },
+    {
+      "o": "Tritons For Israel",
+      "t": 70135,
+      "e": 21,
+      "av": 23378,
+      "nq": 3,
+      "qb": {
+        "Spring_23": 13024,
+        "Spring_24": 30049,
+        "Spring_25": 27062
+      }
+    },
+    {
+      "o": "Deejays and Vinylphiles Club",
+      "t": 66669,
+      "e": 16,
+      "av": 9524,
+      "nq": 7,
+      "qb": {
+        "Spring_23": 19472,
+        "Fall_23": 17848,
+        "Winter_24": 13478,
+        "Spring_24": 7283,
+        "Fall_24": 3500,
+        "Winter_25": 1500,
+        "Fall_25": 3587
+      }
+    },
+    {
+      "o": "Triton Gaming",
+      "t": 61521,
+      "e": 20,
+      "av": 7690,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 9420,
+        "Fall_23": 3447,
+        "Winter_24": 1456,
+        "Spring_24": 18957,
+        "Fall_24": 7330,
+        "Winter_25": 1238,
+        "Spring_25": 15983,
+        "Fall_25": 3689
+      }
+    },
+    {
+      "o": "Undergraduate Women in Computing at UC San Diego",
+      "t": 41544,
+      "e": 130,
+      "av": 5193,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 4524,
+        "Fall_23": 5712,
+        "Winter_24": 12465,
+        "Spring_24": 4528,
+        "Fall_24": 6255,
+        "Winter_25": 4935,
+        "Spring_25": 663,
+        "Fall_25": 2463
+      }
+    },
+    {
+      "o": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "t": 39485,
+      "e": 110,
+      "av": 4936,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 2600,
+        "Fall_23": 4109,
+        "Winter_24": 4509,
+        "Spring_24": 4074,
+        "Fall_24": 6805,
+        "Winter_25": 5865,
+        "Spring_25": 5185,
+        "Fall_25": 6336
+      }
+    },
+    {
+      "o": "Eta Kappa Nu (HKN)",
+      "t": 30590,
+      "e": 78,
+      "av": 3824,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 4065,
+        "Fall_23": 8255,
+        "Winter_24": 3309,
+        "Spring_24": 5529,
+        "Fall_24": 1117,
+        "Winter_25": 3638,
+        "Spring_25": 2764,
+        "Fall_25": 1913
+      }
+    },
+    {
+      "o": "Biomedical Engineering Society (BMES)",
+      "t": 27333,
+      "e": 62,
+      "av": 3417,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 9701,
+        "Fall_23": 2469,
+        "Winter_24": 3643,
+        "Spring_24": 1337,
+        "Fall_24": 1891,
+        "Winter_25": 4084,
+        "Spring_25": 1867,
+        "Fall_25": 2342
+      }
+    },
+    {
+      "o": "Keyboard Club at UC San Diego",
+      "t": 25073,
+      "e": 13,
+      "av": 3582,
+      "nq": 7,
+      "qb": {
+        "Fall_23": 2719,
+        "Winter_24": 3222,
+        "Spring_24": 10371,
+        "Fall_24": 7013,
+        "Winter_25": 847,
+        "Spring_25": 507,
+        "Fall_25": 395
+      }
+    },
+    {
+      "o": "Indian Student Association",
+      "t": 24915,
+      "e": 13,
+      "av": 3559,
+      "nq": 7,
+      "qb": {
+        "Spring_23": 7672,
+        "Fall_23": 3498,
+        "Winter_24": 2550,
+        "Spring_24": 600,
+        "Fall_24": 3076,
+        "Spring_25": 3059,
+        "Fall_25": 4461
+      }
+    },
+    {
+      "o": "SangamSD",
+      "t": 24269,
+      "e": 8,
+      "av": 4045,
+      "nq": 6,
+      "qb": {
+        "Spring_23": 5615,
+        "Fall_23": 5089,
+        "Spring_24": 5850,
+        "Fall_24": 2410,
+        "Spring_25": 3775,
+        "Fall_25": 1530
+      }
+    },
+    {
+      "o": "Project in a Box",
+      "t": 23052,
+      "e": 61,
+      "av": 2881,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 3729,
+        "Fall_23": 3542,
+        "Winter_24": 2695,
+        "Spring_24": 4041,
+        "Fall_24": 2746,
+        "Winter_25": 2700,
+        "Spring_25": 1500,
+        "Fall_25": 2100
+      }
+    },
+    {
+      "o": "Data Science Student Society",
+      "t": 22264,
+      "e": 14,
+      "av": 4453,
+      "nq": 5,
+      "qb": {
+        "Fall_23": 7915,
+        "Winter_24": 4205,
+        "Fall_24": 3417,
+        "Spring_25": 4521,
+        "Fall_25": 2206
+      }
+    },
+    {
+      "o": "Ahlul-Bayt Student Association",
+      "t": 20298,
+      "e": 36,
+      "av": 2537,
+      "nq": 8,
+      "qb": {
+        "Spring_23": 3691,
+        "Fall_23": 946,
+        "Winter_24": 1786,
+        "Spring_24": 4378,
+        "Fall_24": 2233,
+        "Winter_25": 2756,
+        "Spring_25": 2049,
+        "Fall_25": 2457
+      }
+    }
+  ],
+  "GRAND": {
+    "total": 1700547,
+    "events": 2873,
+    "orgs": 344
+  },
+  "seasonality": [
+    {
+      "type": "Spring",
+      "avg": 259043,
+      "avgE": 356,
+      "avgPer": 755,
+      "samples": 3
+    },
+    {
+      "type": "Fall",
+      "avg": 192998,
+      "avgE": 367,
+      "avgPer": 549,
+      "samples": 3
+    },
+    {
+      "type": "Winter",
+      "avg": 172210,
+      "avgE": 352,
+      "avgPer": 490,
+      "samples": 2
+    }
+  ],
+  "academicYears": [
+    {
+      "year": "'22–23",
+      "total": 291935,
+      "events": 294,
+      "note": "1Q"
+    },
+    {
+      "year": "'23–24",
+      "total": 618536,
+      "events": 957,
+      "note": "3Q"
+    },
+    {
+      "year": "'24–25",
+      "total": 599887,
+      "events": 1169,
+      "note": "3Q"
+    },
+    {
+      "year": "'25–26",
+      "total": 190188,
+      "events": 453,
+      "note": "1Q"
+    }
+  ],
+  "forecast": {
+    "projections": [
+      {
+        "q": "Winter '26",
+        "type": "Winter",
+        "avg": 172210,
+        "trend": 147543,
+        "samples": 2
+      },
+      {
+        "q": "Spring '26",
+        "type": "Spring",
+        "avg": 259043,
+        "trend": 207610,
+        "samples": 3
+      }
+    ],
+    "fullYearAvg": 624251,
+    "fullYearTrend": 548151,
+    "historicalByType": {
+      "Spring": [
+        291935,
+        249477,
+        235718
+      ],
+      "Winter": [
+        180433,
+        163988
+      ],
+      "Fall": [
+        188626,
+        200181,
+        190188
+      ]
+    }
+  }
+}

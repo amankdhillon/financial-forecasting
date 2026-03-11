@@ -1,0 +1,123 @@
+COMPREHENSIVE FUNDING ANALYSIS REPORT
+================================================================================
+
+OVERVIEW:
+----------------------------------------
+Total Academic Years Analyzed: 4
+Total Quarters Available: 8
+Total Spending: $1,700,547.06
+Total Events: 2873
+Average per Event: $591.91
+
+ACADEMIC YEAR BREAKDOWN:
+----------------------------------------
+
+2022-23:
+  Total Spending: $291,935.36
+  Total Events: 294
+  Available Quarters: 1/3
+  Quarters: Spring_23
+
+2023-24:
+  Total Spending: $618,536.35
+  Total Events: 957
+  Available Quarters: 3/3
+  Quarters: Fall_23, Winter_24, Spring_24
+
+2024-25:
+  Total Spending: $599,886.95
+  Total Events: 1169
+  Available Quarters: 3/3
+  Quarters: Fall_24, Winter_25, Spring_25
+
+2025-26:
+  Total Spending: $190,188.40
+  Total Events: 453
+  Available Quarters: 1/3
+  Quarters: Fall_25
+
+
+QUARTER-BY-QUARTER DETAILS:
+----------------------------------------
+
+Fall 23:
+  Total Spending: $188,626.22
+  Number of Events: 273
+  Average per Event: $690.94
+  Median per Event: $387.90
+  Date Range: 06/09/2023 to 04/11/2024
+  Top 3 Organizations:
+
+Spring 24:
+  Total Spending: $249,477.49
+  Number of Events: 342
+  Average per Event: $729.47
+  Median per Event: $350.00
+  Date Range: 02/29/2024 to 11/01/2024
+  Top 3 Organizations:
+    1. TRITONS_FOR_ISRAEL_01: $30,048.56
+    2. ASSOC_FOR_COMP_MACHINERY_ACM_01: $24,026.40
+    3. MUSLIM_STU_ASSOC_01: $20,009.93
+
+Spring 25:
+  Total Spending: $235,718.09
+  Number of Events: 433
+  Average per Event: $544.38
+  Median per Event: $321.02
+  Date Range: 02/18/2025 to 06/09/2025
+  Top 3 Organizations:
+    1. TRITONS_FOR_ISRAEL_01: $27,061.54
+    2. TRITON_GAMING_01: $15,983.16
+    3. MUSLIM_STU_ASSOC_01: $7,727.61
+
+Fall 24:
+  Total Spending: $200,181.24
+  Number of Events: 374
+  Average per Event: $535.24
+  Median per Event: $335.53
+  Date Range: 09/24/2024 to 03/07/2025
+  Top 3 Organizations:
+
+Fall 25:
+  Total Spending: $190,188.40
+  Number of Events: 453
+  Average per Event: $419.84
+  Median per Event: $296.31
+  Date Range: 09/22/2025 to 12/08/2025
+  Top 3 Organizations:
+    1. ASSOC_FOR_COMP_MACHINERY_ACM_01: $12,565.64
+    2. INSTITUTE_OF_ELECTRICAL_AND_EL_02: $6,336.50
+    3. MUSLIM_STU_ASSOC_01: $5,691.70
+
+Spring 23:
+  Total Spending: $291,935.36
+  Number of Events: 294
+  Average per Event: $992.98
+  Median per Event: $498.34
+  Date Range: 02/22/2023 to 06/11/2023
+  Top 3 Organizations:
+    1. MUSLIM_STU_ASSOC_01: $37,496.86
+    2. DEEJAYS_AND_VINYLPHILES_CLUB_01: $19,472.48
+    3. ASSOC_FOR_COMP_MACHINERY_ACM_01: $18,872.75
+
+Winter 24:
+  Total Spending: $180,432.64
+  Number of Events: 342
+  Average per Event: $527.58
+  Median per Event: $349.38
+  Date Range: 01/08/2024 to 04/03/2024
+  Top 3 Organizations:
+    1. MUSLIM_STU_ASSOC_01: $14,920.54
+    2. DEEJAYS_AND_VINYLPHILES_CLUB_01: $13,478.41
+    3. ASSOC_FOR_COMP_MACHINERY_ACM_01: $13,432.38
+
+Winter 25:
+  Total Spending: $163,987.62
+  Number of Events: 362
+  Average per Event: $453.00
+  Median per Event: $292.79
+  Date Range: 01/03/2025 to 03/20/2025
+  Top 3 Organizations:
+    1. ANIME_MANGA_ENTHUSIASTS_AT_UC__01: $10,402.70
+    2. MUSLIM_STU_ASSOC_01: $10,257.14
+    3. INSTITUTE_OF_ELECTRICAL_AND_EL_02: $5,865.25
